@@ -1,0 +1,10 @@
+data/25M.txt
+data/5M.txt
+data/1M.txt
+
+data/dist*
+
+*.out
+main
+
+
